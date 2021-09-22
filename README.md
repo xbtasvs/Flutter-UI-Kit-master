@@ -7,31 +7,14 @@
 The goal of this project is to provide an ultimate collection of real world app's UIs.
 While I built Flutter UIKit for my own needs, it is also intented to showcase good app structure and a clean, well-organized Flutter codebase.
 
-The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/iampawan/Flutter-UI-Kit/tree/master/lib) folder.
-
 This project will try to **showcase only the best, most popular and well-designed templates** that you will actually need and find useful rather than overwhelming you with a plethora of low-quality ones.
 
 Happy learning. :+1:
 
 ### Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit.svg?style=social&label=Star)](https://github.com/iampawan/Flutter-UI-Kit) [![GitHub forks](https://img.shields.io/github/forks/iampawan/Flutter-UI-Kit.svg?style=social&label=Fork)](https://github.com/iampawan/Flutter-UI-Kit/fork) [![GitHub watchers](https://img.shields.io/github/watchers/iampawan/Flutter-UI-Kit.svg?style=social&label=Watch)](https://github.com/iampawan/Flutter-UI-Kit) [![GitHub followers](https://img.shields.io/github/followers/iampawan.svg?style=social&label=Follow)](https://github.com/iampawan/Flutter-UI-Kit)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imthepk.svg?style=social)](https://twitter.com/imthepk)
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/iampawan/Flutter-UI-Kit/blob/master/licence.txt)
 
-## YouTube Channel
-
-[MTechViral](https://www.youtube.com/c/MTechViral)
-
-## Facebook Group
-
-[Let's Flutter](https://www.facebook.com/groups/425920117856409/)
-
-## Collection of flutter apps with tutorial
-
-[Flutter Example Apps](https://github.com/iampawan/FlutterExampleApps)
 
 # Screenshots
 
@@ -100,46 +83,8 @@ If you have any suggestion for including more categories, feel free to open a Gi
 
 If you feel that a particular resource(s)/template(s) available here is not a good fit for this project and should be removed, feel free to let me know by opening an issue.
 
-### :heart: Found this project useful?
-
-If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
-
-## Project Created & Maintained By
-
-### Pawan Kumar
-
-Google Developer Expert for Flutter. Passionate #Flutter, #Android Developer. #Entrepreneur #YouTuber
-
-<a href="https://play.google.com/store/apps/dev?id=7703305844118303242&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a href="https://medium.com/@imthepk"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
-<a href="https://twitter.com/imthepk"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://linkedin.com/in/imthepk"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-<a href="https://facebook.com/imthepk"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://instagram.com/codepur_ka_superhero"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
 # Donate
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 ><a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
 > * [PayPal](https://www.paypal.me/EireHauler)
-
-## License
-
-```
-Copyright 2018 Pawan Kumar
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-```
