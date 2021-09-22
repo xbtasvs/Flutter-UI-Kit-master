@@ -117,10 +117,9 @@ Google Developer Expert for Flutter. Passionate #Flutter, #Android Developer. #E
 <a href="https://instagram.com/codepur_ka_superhero"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
 # Donate
-
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> - [PayPal](https://www.paypal.me/imthepk/)
+><a href='https://ko-fi.com/eirehauler' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+> * [PayPal](https://www.paypal.me/EireHauler)
 
 ## License
 
